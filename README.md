@@ -1,5 +1,4 @@
 ## About
-<br/>
 A script to calculate the Levenshtein distance using the Wagner-Fischer algorithm.
 
 From Wikipedia:
@@ -13,7 +12,6 @@ From Wikipedia:
 
 <!-- CONTACT -->
 ## Contact
-<br/>
 Simone Perna - simoneperna8@gmail.com
 
 If you wish, feel free to write me a message on GitHub!
